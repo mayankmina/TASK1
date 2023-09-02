@@ -1,0 +1,36 @@
+body {
+    background-image: url(pascal-meier-UYiesSO4FiM-unsplash.jpg);
+    width: 1246px;
+    height: 900px;
+}
+.bg-cp {
+    background-color: whitesmoke;
+}
+.fs-7 {
+    font-size: 14px;
+}
+.fs-8 {
+    font-size: 12px;
+}
+.inp-width {
+    width: 240px;
+}
+.inp-height {
+    height:52px;
+}
+.position-relative img {
+    width: 1246px;
+    height: 900px;
+}
+div {
+    align-items: center;
+}
+div p {
+    font-weight: bold;
+
+}
+div .btn-outline-primary {
+    font-weight: bold;
+    border: 2px solid red;
+    display: flex;
+}
